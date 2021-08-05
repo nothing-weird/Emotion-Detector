@@ -1,4 +1,4 @@
-# Emotion Detector on Python in Realtime
+# Realtime Emojifier
 
 Abstract
 -------------------
