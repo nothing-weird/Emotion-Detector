@@ -11,7 +11,7 @@ This project helps to understand the basics of machine learning and deep learnin
 ## Requirements: 
 1. Python 3.8 or latest,
 2. Webcam, 
-3. Installed OpenCV, Tkinter,PyTorch, Pillow.
+3. Installed OpenCV of version 4.5.2 or later, Tkinter of version 8.6 or later,PyTorch of version 1.9.0 or later, Pillow of version 8.2.0 or later.
 
 ## Installation: 
 1. Install required libraries: 
